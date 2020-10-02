@@ -34,6 +34,9 @@
 <h2>Walk-Through</h2>
 &nbsp;
 
+####  ~ Click on the thumbnail to watch the video.👇
+
+&nbsp;
 
 [![Watch the video](https://github.com/prakhar-agarwall/enlist/blob/master/Extra/Thumbnail.png)](https://drive.google.com/file/d/13ungSX0jhbgLfasmK-H0rmuyDPLAM7mY/view?usp=sharing)
 
