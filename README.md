@@ -19,7 +19,8 @@
 #### ~ You can directly sync your task to Google Calendar. Hence, you will get notification , pop-up reminders and add other Google features.
 #### ~ PERSONAL & SHARED feature:
 * If any user wants to keep the task to himself then (s)he can add using the PERSONAL feature. So, that task won't appear in other people's lists.
-* If any user wants to share the task to the whole team/class, then (s)he can add using the SHARED feature. Hence, it will automatically sync to everyone's list.   
+* If any user wants to share the task to the whole team/class, then (s)he can add using the SHARED feature. Hence, it will automatically sync to everyone's list. 
+* Edit, done and delete operations on a particular task are individual for everyone and the changes made by that user won't occur in other people's list.
 #### ~ Website and Android App are dynamic i.e., the changes made on any of the platform are synced automatically via Firebase.
 #### ~ We have made a two-fold security factor via PRN (roll call) and College ID. So, both of them should match.
 #### ~ User can register via College ID only. Also user is granted access for only his/her respective classes. 
