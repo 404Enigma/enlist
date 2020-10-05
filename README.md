@@ -11,6 +11,13 @@
 #### ~ We have created a To-do List which allows a list of shared tasks within the class.
 #### ~ We use realtime database to sync all the tasks in everybody's account.
 
+
+&nbsp;
+<h2>Code Footnotes: 🛠</h2>
+<h3>~ <a href="https://github.com/prakhar-agarwall/enlist-app">Android App</a></h3>
+<h3>~ <a href="https://github.com/pratyushjain122/enlist-web.git">Website</a></h3>
+<h3>~ <a href="https://github.com/Sudhanshu1304/enlist-data-analysis">Data Analysis</a></h3>
+
 &nbsp;
 <h2>Salient Features 🧩</h2>
 
@@ -68,11 +75,6 @@
 * Numpy
 * Pandas
 
-&nbsp;
-<h2>Code Footnotes: 🛠</h2>
-<h3>~ <a href="https://github.com/prakhar-agarwall/enlist-app">Android App</a></h3>
-<h3>~ <a href="https://github.com/pratyushjain122/enlist-web.git">Website</a></h3>
-<h3>~ <a href="https://github.com/Sudhanshu1304/enlist-data-analysis">Data Analysis</a></h3>
 
 
 &nbsp;
