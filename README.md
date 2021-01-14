@@ -3,7 +3,7 @@
 </p>
 <br>
 &nbsp;
-<h2>Android App found here👉 <a href="https://github.com/prakhar-agarwall/enlist/blob/master/Extra/Enlist.apk">Enlist</a></h2>
+<h2>Android App found here👉 Enlist</h2>
 <h2>Website URL found here👉 <a href="https://enlist-563ad.web.app">Enlist</a></h2>
 &nbsp;
 <h2>What's our project? 📒</h2>
