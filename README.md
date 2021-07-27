@@ -48,6 +48,7 @@ Walk-through video of ENLIST platform.
 
 ```bash
   Java
+  Android Toolkit -> Android Studio, Android SDK
 ```
 
 **Client:**
@@ -66,24 +67,23 @@ Walk-through video of ENLIST platform.
 **Data Analysis:**
 
 ```bash
-  Pyrebase, Matplotlib, Numpy, Pandas.
+  Pyrebase, Matplotlib, Numpy, Pandas, Google Analytics, Flurry Analytics, Sentry Analytics, Firebase Crashlytics.
 ```
 
 **Services:**
 
 ```bash
-  Cloud Firestore, Realtime Database, Cloud Storage, Authentication,
-  Firebase Hosting, Google Analytics, Flurry Analytics, Sentry Analytics.
+  Cloud Firestore, Realtime Database, Cloud Storage, Authentication, Firebase Hosting, Firebase Messaging.
 ```
 
 &nbsp;
 
 ## 404Enigma 👨‍💻
 
-- [@prakhar-agarwall](https://github.com/prakhar-agarwall)
-- [@pratyushjain122](https://github.com/pratyushjain122)
-- [@rahulmansharamani14](https://github.com/rahulmansharamani14)
-- [@Sudhanshu1304](https://github.com/Sudhanshu1304)
+- [Prakhar Agarwal](https://github.com/prakhar-agarwall)
+- [Pratyush Jain](https://github.com/pratyushjain122)
+- [Rahul Mansharamani](https://github.com/rahulmansharamani14)
+- [Sudhanshu Pandey](https://github.com/Sudhanshu1304)
 
 &nbsp;
 
