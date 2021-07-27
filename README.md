@@ -1,7 +1,5 @@
 <div align="center">
-
-![Logo](https://github.com/404Enigma/enlist/blob/master/Extra/logo.png)
-
+<img src="https://github.com/404Enigma/enlist/blob/master/Extra/logo.png" width="200px">
 <hr>
 </div>
 
@@ -16,11 +14,11 @@
 
 &nbsp;
 
-<h2>What's our project? 📒</h2>
+## What is ENLIST? 📒
 
-#### ~ We have created a To-do List which allows a list of shared tasks within the class.
+A Distributive Management System with basic features of a To-Do and an additional feature that allows a list of shared tasks within the class.
 
-#### ~ We use realtime database to sync all the tasks in everybody's account.
+ENLIST's Webapp and Android App are dynamically synced, so users can perform the operations on any of the platforms according to their convenience as the changes made on any of the platforms are synced automatically.
 
 &nbsp;
 
@@ -32,37 +30,15 @@
 
 &nbsp;
 
-<h2>Salient Features 🧩</h2>
-
-#### ~ The task added by anyone in that class will automatically appear in your list so that you get to know what is given.
-
-#### ~ User analysis via Python. Through this we make a log sheet to track every user's activity.
-
-#### ~ You can directly sync your task to Google Calendar. Hence, you will get notification , pop-up reminders and add other Google features.
-
-#### ~ PERSONAL & SHARED feature:
-
-- If any user wants to keep the task to himself then (s)he can add using the PERSONAL feature. So, that task won't appear in other people's lists.
-- If any user wants to share the task to the whole team/class, then (s)he can add using the SHARED feature. Hence, it will automatically sync to everyone's list.
-- Edit, done and delete operations on a particular task are individual for everyone and the changes made by that user won't occur in other people's list.
-
-#### ~ Website and Android App are dynamic i.e., the changes made on any of the platform are synced automatically via Firebase.
-
-#### ~ We have made a two-fold security factor via PRN (roll call) and College ID. So, both of them should match.
-
-#### ~ User can register via College ID only. Also user is granted access for only his/her respective classes.
+## How ENLIST is different ? 🧩
+A characteristic that separates ENLIST from Microsoft ToDo, Google Tasks, Todoist, and the list goes on is that any changes on a "shared task" are particular for everybody, and any alterations made by one individual won't affect other user's list.
 
 &nbsp;
-
-<h2>Interfuse 😎</h2>
-
-#### Our platform is easily accessible both on Website and Android App. You can perform the operations on any of the platform according to your convenience.
-
-&nbsp;
-
 ## Walk-through 🛠
 
-Insert gif or link to demo
+Walk-through video of ENLIST platform.
+
+  - https://youtu.be/BqNAMy8i8Vk
 
 &nbsp;
 
@@ -111,11 +87,16 @@ Insert gif or link to demo
 
 &nbsp;
 
+## License
+
+[MIT](https://github.com/404Enigma/enlist/blob/master/LICENSE)
+
+&nbsp;
 <table border="5px">
 
  <tbody>
 
- <td><u>DISCLAIMER:</u> As we track every record added by the user, therefore we can restrict certain user rights if found abusing our software.</td>
+ <td><u>DISCLAIMER:</u> ENLIST tracks every record added by the user, therefore we can restrict certain user rights if found abusing our software.</td>
 
  </tbody>
  </table>
